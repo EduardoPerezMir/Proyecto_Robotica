@@ -14,3 +14,7 @@ En Webots, ir a File → Open World.
 Navegar hasta la carpeta descomprimida y seguir la siguiente ruta:
 
 Simulacion → worlds → mundo.wbt
+
+
+Vídeo: 
+https://youtube.com/shorts/2otPxoOY4aU?feature=share
